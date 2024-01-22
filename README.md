@@ -2,15 +2,13 @@
 
 <br/>
 
-Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
+Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning to hack. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 
-All the rooms herein, are absolute free. ATTACK!!
+All the rooms herein are free. ATTACK!!
 
-## Maintainer
-> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
 
 ## NEWS
-Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023). It's a very good course to boost your skill in cyber security. i reckon it's free :)
+Don't forget to join the [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023). It's a very good course to boost your skills in cyber security. I reckon it's free :)
 
 ## Table of Contents
 
