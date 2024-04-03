@@ -6,7 +6,7 @@ Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning to 
 
 All the rooms herein are free. ATTACK!!
 
-## Join Our Community : [ Boni Security }(https://www.linkedin.com/company/boni-security)
+## Join Our Community : [ Boni Security ](https://www.linkedin.com/company/boni-security)
 
 
 ## NEWS
